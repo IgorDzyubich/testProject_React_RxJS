@@ -1,0 +1,15 @@
+.buttonWrapper {
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+button {
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: 0 0 6px white;
+}
